@@ -1,7 +1,9 @@
  
-## <p align="center"> <b> IMERSÃO DADOS ALURA - ANÁLISE EDUCAÇAO (EXAME NACIONAL DO ENSINO MÉDIO)</p> </b>
+# <p align="center"> <b> IMERSÃO DADOS ALURA - ANÁLISE EDUCAÇAO (EXAME NACIONAL DO ENSINO MÉDIO)  </b> 
 
-## 💻 Sobre o projeto
+
+##  💻 Sobre o projeto</br> 
+Acesse o notebook completo <a href="https://github.com/daianeklein/imersao-dados-Alura/blob/main/Analise-Educacao.ipynb"> aqui </a>
 
 O projeto foi proposto na Imersão Dados promovida pela <a href="https://www.alura.com.br/imersao-dados"> Alura </a>, onde foram analisados dados do Exame Nacional do Ensino Médio - ENEM.
 
@@ -26,7 +28,7 @@ A lógica para análise foi baseada:
 <b> 14 - Contatos</b></br></br>
 <b> 15  - Refências</b></br></br>
 
-## 🎲  A imersão dados
+## 🎲  A imersão dados Alura
 
 Trata-se da segunda imersão de Ciência de Dados promovida pela Alura.
 Nesta segunda edição, foram 5 dias consecutivos de conteúdos, sendo:
