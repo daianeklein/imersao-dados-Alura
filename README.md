@@ -1,9 +1,16 @@
  
 # <p align="center"> <b> IMERSÃO DADOS ALURA - ANÁLISE EDUCAÇAO (EXAME NACIONAL DO ENSINO MÉDIO)  </b> 
 
+## Edit:
+Projeto selecionado em primeiro lugar na Imersão de Dados Alura, concorrendo entre mais de 200 participantes.</br> 
 
-##  💻 Sobre o projeto</br> 
-Acesse o notebook completo <a href="https://github.com/daianeklein/imersao-dados-Alura/blob/main/Analise-Educacao.ipynb"> aqui </a>
+Artigo com racional de análise: <a href= "https://www.linkedin.com/posts/daiane-klein_com-muita-gratid%C3%A3o-que-compartilho-com-voc%C3%AAs-activity-6727278058442678272-tWt6"> Imersão Dados Alura: Como desenvolvi minha análise </a> </br> 
+
+Live com a divulgação do ganhador (Anúncio do ganhador começa em 40min50s): <a href= "https://www.youtube.com/watch?v=j_dMCggTx4c&t=2601s"> Encerramento da Imersão e Lançamento do Bootcamp - com Átila Iamarino  </a> </br> 
+
+Acesse o notebook completo <a href="https://github.com/daianeklein/imersao-dados-Alura/blob/main/Analise-Educacao.ipynb"> aqui </a></br>
+ 
+##  💻 Sobre o projeto</br> </br> 
 
 O projeto foi proposto na Imersão Dados promovida pela <a href="https://www.alura.com.br/imersao-dados"> Alura </a>, onde foram analisados dados do Exame Nacional do Ensino Médio - ENEM.
 
